@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Services\\ApnaAahar.Services.csproj": {}
+  },
+  "projects": {
+    "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj",
+        "projectName": "ApnaAahar.Exceptions",
+        "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\royan\\.nuget\\packages\\",
+        "outputPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\royan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\ApnaAahar.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\ApnaAahar.Repository.csproj",
+        "projectName": "ApnaAahar.Repository",
+        "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\ApnaAahar.Repository.csproj",
+        "packagesPath": "C:\\Users\\royan\\.nuget\\packages\\",
+        "outputPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\royan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj": {
+                "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Services\\ApnaAahar.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Services\\ApnaAahar.Services.csproj",
+        "projectName": "ApnaAahar.Services",
+        "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Services\\ApnaAahar.Services.csproj",
+        "packagesPath": "C:\\Users\\royan\\.nuget\\packages\\",
+        "outputPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\royan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj": {
+                "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Exceptions\\ApnaAahar.Exceptions.csproj"
+              },
+              "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\ApnaAahar.Repository.csproj": {
+                "projectPath": "G:\\MINDTREE\\DotNet\\ApnaAahar\\ApnaAaharAPI\\shreeya_apnaaahar_sept_20_api\\ApnaAahar.Repository\\ApnaAahar.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

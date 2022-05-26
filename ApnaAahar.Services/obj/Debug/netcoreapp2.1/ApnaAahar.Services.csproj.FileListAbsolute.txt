@@ -1,0 +1,14 @@
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Services.deps.json
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Services.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Services.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Exceptions.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Repository.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Exceptions.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\bin\Debug\netcoreapp2.1\ApnaAahar.Repository.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.csprojAssemblyReference.cache
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.AssemblyInfoInputs.cache
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.AssemblyInfo.cs
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.csproj.CopyComplete
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Services\obj\Debug\netcoreapp2.1\ApnaAahar.Services.csproj.CoreCompileInputs.cache
