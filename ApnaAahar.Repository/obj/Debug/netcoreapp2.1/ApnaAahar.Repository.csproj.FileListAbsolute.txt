@@ -1,0 +1,12 @@
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\bin\Debug\netcoreapp2.1\ApnaAahar.Repository.deps.json
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\bin\Debug\netcoreapp2.1\ApnaAahar.Repository.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\bin\Debug\netcoreapp2.1\ApnaAahar.Repository.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\bin\Debug\netcoreapp2.1\ApnaAahar.Exceptions.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\bin\Debug\netcoreapp2.1\ApnaAahar.Exceptions.pdb
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.csprojAssemblyReference.cache
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.AssemblyInfoInputs.cache
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.AssemblyInfo.cs
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.csproj.CoreCompileInputs.cache
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.csproj.CopyComplete
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.dll
+G:\MINDTREE\DotNet\ApnaAahar\ApnaAaharAPI\shreeya_apnaaahar_sept_20_api\ApnaAahar.Repository\obj\Debug\netcoreapp2.1\ApnaAahar.Repository.pdb
